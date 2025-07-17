@@ -15,6 +15,13 @@ An intelligent AI-powered system that creates a personalized weekly **learning r
 
 ---
 
+## 📌 Demo
+
+Try the app here:  
+👉 [Streamlit App Link]([https://your-deployment-url.streamlit.app/](https://upskilling-recommender-5yjjgsuf32gfydhjlvnfsh.streamlit.app/))
+
+---
+
 ## 🗃️ Folder Structure
 
 upskilling-recommendation-agent/
