@@ -1,0 +1,33 @@
+{
+  "user_id": "default_user",
+  "goal": "I want to become a data scientist",
+  "skills": ["Python", "Pandas", "Statistics", "Machine Learning", "SQL"],
+  "learning_plan": {
+    "1": {
+      "skill": "Python",
+      "resources": [
+        {
+          "title": "Intro to Python",
+          "url": "https://coursera.org/course/python"
+        },
+        {
+          "title": "Python for Beginners",
+          "url": "https://udemy.com/course/python"
+        }
+      ]
+    },
+    "2": {
+      "skill": "Pandas",
+      "resources": [
+        {
+          "title": "Data Analysis with Pandas",
+          "url": "https://youtube.com/watch?v=pandas101"
+        }
+      ]
+    }
+  },
+  "progress": {
+    "1": "in progress",
+    "2": "not started"
+  }
+}
